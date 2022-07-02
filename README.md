@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @aadheeshn26
-- 👀 I’m interested in Mobile App Development with React-Native, Python for Automation, Basic Operations with Java, etc.
+- 👀 I’m interested in General Programming with Python, App-Development with React-Native, and Data Structures and Algorithms!
 - 📫 aadheeshnandan26@gmail.com (Professional Email)
