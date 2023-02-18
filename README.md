@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @aadheeshn26
-- 👀 I’m interested in General Programming With Python, Front-End, Hardware Projects With Raspberry Pi, and Data Structures and Algorithms!
+- 👀 I’m interested in General Programming w/ Python, App Development w/ React-Native, Game Development w/ UE5 and Data Structures/Algorithms
 - 📫 aadheeshnandan26@gmail.com
